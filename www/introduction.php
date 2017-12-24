@@ -16,8 +16,7 @@
   <h3>CAD</h3>
   <ul>
     <li>LTSpice: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-    <li>KiCad: <i class="fa fa-star"></i> 発注まで行ったことがない
-    </li>
+    <li>KiCad: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
     <li>Fusion360: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
   </ul>
   <h3>Programming</h3>
