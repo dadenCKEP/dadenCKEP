@@ -33,6 +33,11 @@
         </a>
       </div>
     </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6">
+        <a href="https://www.twitch.tv/dadenckep"><i class="fa fa-twitch fa-5x"></i></a>
+      </div>
+    </div>
   </div>
 
 
