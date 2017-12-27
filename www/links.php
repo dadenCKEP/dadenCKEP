@@ -12,7 +12,7 @@
         <a href="https://github.com/dadenCKEP"><i class="fa fa-github fa-5x"></i></a>
       </div>
       <div class="col-sm-3 col-xs-6">
-        <a href="https://ckep.info/"><i class="fa fa-users fa-5x"></i></a>
+        <i class="fa fa-amazon fa-5x"></i><br>(coming soon)
       </div>
       <div class="col-sm-3 col-xs-6">
         <a href="https://steamcommunity.com/id/dadenCKEP"><i class="fa fa-steam fa-5x"></i></a>
@@ -32,14 +32,6 @@
         <a href="https://monappy.jp/u/dadenCKEP">Monappy<br>(Monacoin wallet)
         </a>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-3 col-xs-6">
-        <i class="fa fa-amazon fa-5x"></i><br>(coming soon)
-      </div>
-      <div class="col-sm-3 col-xs-6"></div>
-      <div class="col-sm-3 col-xs-6"></div>
-      <div class="col-sm-3 col-xs-6"></div>
     </div>
   </div>
 
