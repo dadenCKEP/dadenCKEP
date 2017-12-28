@@ -10,6 +10,17 @@
       <p>Arduino Uno用のシールドで、マイコンカーとして使用するためのもの。</p>
     </div>
   </div>
+  <div class="thumbnail">
+    <div class="text-center">
+      <i class="fa fa-file-text-o fa-5x"></i>
+    </div>
+    <div class="caption">
+      <h3>(This page)</h3>
+      <p>
+        このサイト。<a href="https://github.com/dadenCKEP/dadenCKEP">Github</a>にソースコードがあります。<br> Raspberry Pi3にて運用されており、masterブランチがこのサーバーに反映されるようになっています。
+      </p>
+    </div>
+  </div>
   <h2>その他</h2>
   <p>上記のテーマと合わせてTrelloの公開ボードにて管理されています。</p>
   <blockquote class="trello-board-compact">
