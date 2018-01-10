@@ -37,9 +37,11 @@
       <div class="col-sm-3 col-xs-6">
         <a href="https://www.twitch.tv/dadenckep"><i class="fa fa-twitch fa-5x"></i></a>
       </div>
+      <div class="col-sm-3 col-xs-6">
+        <a href="http://com.nicovideo.jp/community/co3759820"><i class="fa fa-tv fa-5x"></i></a>
+      </div>
     </div>
   </div>
-
 
 </div>
 <?php require_once("../include/tpl/footer.html")?>
