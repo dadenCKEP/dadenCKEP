@@ -51,6 +51,11 @@
     <li>nginx: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
     <li>elasticsearch + kibana: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
   </ul>
+  <h3>3D</h3>
+  <ul>
+    <li>Blender: <i class="fa fa-star"></i></li>
+    <li>Unity: <i class="fa fa-star"></i></li>
+  </ul>
 
   <h2>Qualifications</h2>
   <p>英検準二級</p>
