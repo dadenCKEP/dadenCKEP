@@ -24,6 +24,17 @@
     </div>
   </div>
   <div class="thumbnail">
+    <img src="https://api.vrchat.cloud/api/1/file/file_de96d768-c0b6-4956-b000-f5d0423839ad/1/file" alt="World">
+    <div class="caption">
+      <h3>
+        <a href="https://www.vrchat.net/launch?worldId=wrld_b81c6070-c4e8-42f9-bfac-307b122173f2">CKEP VR Base</a>
+      </h3>
+      <p>
+        ゲーム「<a href="https://vrchat.com/">VRChat</a>」のWorldです。WepPanelを中心に、様々な実験をしています。<br> 検証結果等は技術系wikiの<a href="http://vrcworld.wiki.fc2.com/">VRChat 技術メモ帳</a>に参加して書いているためそちらをご参照ください。
+      </p>
+    </div>
+  </div>
+  <div class="thumbnail">
     <div class="text-center">
       <i class="fa fa-file-text-o fa-5x"></i>
     </div>
