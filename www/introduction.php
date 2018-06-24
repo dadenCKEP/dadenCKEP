@@ -5,7 +5,7 @@
   </div>
   <h2>基本情報</h2>
   <h3>本名</h3>
-  <p>中田 憲吾(Kengo Nakata)</p>
+  <p>中田 憲吾(Kengo Nakata) / 堕電(dadenCKEP)</p>
   <h3>誕生日</h3>
   <p>12th Apr, 1995</p>
 
@@ -53,13 +53,14 @@
   </ul>
   <h3>3D</h3>
   <ul>
-    <li>Blender: <i class="fa fa-star"></i></li>
-    <li>Unity: <i class="fa fa-star"></i></li>
+    <li>Blender: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
+    <li>Unity: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
+    <li>Substance Painter: <i class="fa fa-star"></i></li>
   </ul>
 
   <h2>Qualifications</h2>
   <p>英検準二級</p>
-  <p>第三級アマチュア無線技師</p>
+  <p>第三級アマチュア無線技士</p>
   <p>普通自動車免許</p>
 
   <h2>Education</h2>
