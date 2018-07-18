@@ -11,7 +11,7 @@
 
   <h2>Skill</h2>
   <p>
-    <i class="fa fa-star"></i>: 触っただけ<br> <i class="fa fa-star"></i><i class="fa fa-star"></i>: そこそこ使える,制作物有り<br> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>: 詳しい
+    <i class="fa fa-star"></i>: 触っただけ<br> <i class="fa fa-star"></i><i class="fa fa-star"></i>: そこそこ使える,制作物有り<br> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>: 比較的詳しい
   </p>
   <h3>CAD</h3>
   <ul>
@@ -37,6 +37,12 @@
     <li>RDB/SQL :<i class="fa fa-star"></i><i class="fa fa-star"></i></li>
     <li>OpenCV: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> C++とPython両方
     </li>
+    <li>JavaScript: <i class="fa fa-star"></i>
+    <ul>
+        <li>React: <i class="fa fa-star"></i></li>
+        <li>Redux: <i class="fa fa-star"></i></li>
+        <li>axios: <i class="fa fa-star"></i></li>
+      </ul></li>
   </ul>
   <h3>Hardware</h3>
   <ul>
