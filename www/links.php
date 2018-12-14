@@ -3,42 +3,44 @@
   <div class="page-header">
     <h1>Link</h1>
   </div>
-  <div class="container-fluid">
+  <div class="container">
     <div class="row">
       <div class="col-sm-3 col-xs-6">
-        <a href="https://twitter.com/dadenCKEP"><i class="fa fa-twitter fa-5x"></i></a>
+        <a href="https://twitter.com/dadenCKEP"><i class="fab fa-twitter fa-5x"></i></a>
       </div>
       <div class="col-sm-3 col-xs-6">
-        <a href="https://github.com/dadenCKEP"><i class="fa fa-github fa-5x"></i></a>
+        <a href="https://github.com/dadenCKEP"><i class="fab fa-github fa-5x"></i></a>
       </div>
       <div class="col-sm-3 col-xs-6">
-        <i class="fa fa-amazon fa-5x"></i><br>(coming soon)
+        <a href="https://www.amazon.co.jp/hz/wishlist/ls/3OMY1ZNKMKE0J/?type=wishlist&filter=all&tag=daden-22"><i class="fab fa-amazon fa-5x"></i></a>
       </div>
       <div class="col-sm-3 col-xs-6">
-        <a href="https://steamcommunity.com/id/dadenCKEP"><i class="fa fa-steam fa-5x"></i></a>
+        <a href="https://steamcommunity.com/id/dadenCKEP"><i class="fab fa-steam fa-5x"></i></a>
       </div>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6">
-        <a href="https://wiki.ckep.info"><i class="fa fa-book fa-5x"></i></a>
+        <a href="https://wiki.ckep.info"><i class="fas fa-book fa-5x"></i></a>
       </div>
       <div class="col-sm-3 col-xs-6">
-        <a href="http://blog.ckep.info"><i class="fa fa-wordpress fa-5x"></i></a>
+        <a href="http://blog.ckep.info"><i class="fab fa-wordpress fa-5x"></i></a>
       </div>
       <div class="col-sm-3 col-xs-6">
-        <a href="https://twitter.com/ranchanCKEP"><i class="fa fa-bell fa-5x"></i></a>
+        <a href="https://twitter.com/ranchanCKEP"><i class="fas fa-bell fa-5x"></i></a>
       </div>
       <div class="col-sm-3 col-xs-6">
-        <a href="https://monappy.jp/u/dadenCKEP">Monappy<br>(Monacoin wallet)
-        </a>
+        <a href="https://www.twitch.tv/dadenckep"><i class="fab fa-twitch fa-5x"></i></a>
       </div>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6">
-        <a href="https://www.twitch.tv/dadenckep"><i class="fa fa-twitch fa-5x"></i></a>
+        <a href="https://ckep.booth.pm/"><i class="fas fa-shopping-cart fa-5x"></i></a>
       </div>
       <div class="col-sm-3 col-xs-6">
-        <a href="http://com.nicovideo.jp/community/co3759820"><i class="fa fa-tv fa-5x"></i></a>
+        <a href="https://discordapp.com/users/305749237940092928"><i class="fab fa-discord fa-5x"></i></a>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+        <a href="https://bitbucket.org/dadenCKEP/"><i class="fab fa-bitbucket fa-5x"></i></a>
       </div>
     </div>
   </div>

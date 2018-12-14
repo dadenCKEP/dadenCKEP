@@ -38,7 +38,7 @@
     <li>OpenCV: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> C++とPython両方
     </li>
     <li>JavaScript: <i class="fa fa-star"></i>
-    <ul>
+      <ul>
         <li>React: <i class="fa fa-star"></i></li>
         <li>Redux: <i class="fa fa-star"></i></li>
         <li>axios: <i class="fa fa-star"></i></li>
@@ -61,7 +61,7 @@
   <ul>
     <li>Blender: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
     <li>Unity: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-    <li>Substance Painter: <i class="fa fa-star"></i></li>
+    <li>Substance Painter: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
   </ul>
 
   <h2>Qualifications</h2>
