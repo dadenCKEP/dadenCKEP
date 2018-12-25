@@ -15,6 +15,7 @@
   <ul>
     <li>LTSpice: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
     <li>KiCad: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
+    <li>Eagle: <i class="fa fa-star"></i></li>
     <li>Fusion360: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
   </ul>
   <h3>Programming</h3>
@@ -37,6 +38,7 @@
     </li>
     <li>JavaScript: <i class="fa fa-star"></i>
       <ul>
+        <li>PixiJs: <i class="fa fa-star"></i></li>
         <li>React: <i class="fa fa-star"></i></li>
         <li>Redux: <i class="fa fa-star"></i></li>
         <li>axios: <i class="fa fa-star"></i></li>
@@ -45,6 +47,7 @@
   <h3>Hardware</h3>
   <ul>
     <li>AVR: <i class="fa fa-star"></i></li>
+    <li>PIC: <i class="fa fa-star"></i></li>
     <li>Arduino: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
     <li>ESP32: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
     <li>Raspberry Pi: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
@@ -60,6 +63,10 @@
     <li>Blender: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
     <li>Unity: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
     <li>Substance Painter: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
+  </ul>
+  <h3>Other</h3>
+  <ul>
+    <li>Camera: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
   </ul>
 
   <h2>Qualifications</h2>
