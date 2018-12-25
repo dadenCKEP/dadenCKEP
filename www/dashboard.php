@@ -1,6 +1,6 @@
 <?php require_once("../include/tpl/header.html")?>
 <div class="container">
-  <h1 class="mt-3 mb-5 font-weight-bold border-bottom">Dashboard</h1>
+  <h1 class="mt-3 mb-3 font-weight-bold border-bottom">Dashboard</h1>
   <blockquote class="trello-board-compact">
     <a href="https://trello.com/b/fWc9H95H/%E7%A0%94%E7%A9%B6">Trello Board</a>
   </blockquote>

@@ -1,6 +1,6 @@
 <?php require_once("../include/tpl/header.html")?>
 <div class="container">
-  <h1 class="mt-3 mb-5 font-weight-bold border-bottom">Introduction</h1>
+  <h1 class="mt-3 mb-3 font-weight-bold border-bottom">Introduction</h1>
   <h2>基本情報</h2>
   <h3>本名</h3>
   <p>中田 憲吾(Kengo Nakata) / 堕電(dadenCKEP)</p>
