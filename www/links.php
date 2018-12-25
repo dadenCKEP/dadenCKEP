@@ -1,8 +1,6 @@
 <?php require_once("../include/tpl/header.html")?>
 <div class="container">
-  <div class="page-header">
-    <h1>Link</h1>
-  </div>
+  <h1 class="mt-3 mb-5 font-weight-bold border-bottom">Link</h1>
   <div class="container">
     <div class="row">
       <div class="col-sm-3 col-xs-6">
