@@ -38,7 +38,7 @@
     </li>
     <li>JavaScript: <i class="fa fa-star"></i>
       <ul>
-        <li>PixiJs: <i class="fa fa-star"></i></li>
+        <li>PixiJS: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
         <li>React: <i class="fa fa-star"></i></li>
         <li>Redux: <i class="fa fa-star"></i></li>
         <li>axios: <i class="fa fa-star"></i></li>
