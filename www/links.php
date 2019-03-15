@@ -40,6 +40,9 @@
       <div class="col-sm-3 col-6 py-3">
         <a href="https://bitbucket.org/dadenCKEP/"><i class="fab fa-bitbucket fa-5x"></i></a>
       </div>
+      <div class="col-sm-3 col-6 py-3">
+        <a href="https://www.paypal.me/dadenCKEP"><i class="fab fa-paypal fa-5x"></i></a>
+      </div>
     </div>
   </div>
 
