@@ -51,21 +51,34 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-6 col-sm-12"></div>
-    </div>
-    <div class="col-lg-6 col-sm-12">
-      <div class="card m-2">
-        <div class="card-body">
-          <h3 class="card-title text-center">
-            <i class="far fa-file-alt fa-5x"></i><br>(This page)
-          </h3>
-          <p class="card-text">
-            このサイト。<a href="https://github.com/dadenCKEP/dadenCKEP">Github</a>にソースコードがあります。<br> 複数のRaspberry Pi等にて運用されており、masterブランチがこのサーバーに反映されるようになっています。
-          </p>
+      <div class="col-lg-6 col-sm-12">
+        <div class="card m-2">
+          <div class="card-body">
+            <h3 class="text-center">
+            <i class="fas fa-cogs fa-5x"></i><i class="fas fa-hammer fa-5x"></i>
+            </h3>
+            <h3>
+             Game Server
+            </h3>
+            <p class="card-text">
+              ゲームサーバー各種。Factorio, 7 days to die, Minecraftなど。CentOSにて運用中。(非公開)
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-sm-12">
+        <div class="card m-2">
+          <div class="card-body">
+            <h3 class="card-title text-center">
+              <i class="far fa-file-alt fa-5x"></i><br>(This page)
+            </h3>
+            <p class="card-text">
+              このサイト。<a href="https://github.com/dadenCKEP/dadenCKEP">Github</a>にソースコードがあります。<br> 複数のRaspberry Pi等にて運用されており、masterブランチがこのサーバーに反映されるようになっています。
+            </p>
+          </div>
         </div>
       </div>
     </div>
-  </div>
 
   <h2 class="mt-3 mb-3 font-weight-bold border-bottom">その他(進行中・保留)</h2>
   <p>上記のテーマと合わせてTrelloの公開ボードにて管理されています。</p>
