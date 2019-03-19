@@ -79,6 +79,7 @@
         </div>
       </div>
     </div>
+  </div>
 
   <h2 class="mt-3 mb-3 font-weight-bold border-bottom">その他(進行中・保留)</h2>
   <p>上記のテーマと合わせてTrelloの公開ボードにて管理されています。</p>
