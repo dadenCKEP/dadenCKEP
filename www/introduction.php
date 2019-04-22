@@ -56,7 +56,7 @@
   <ul>
     <li>apache: <i class="fa fa-star"></i></li>
     <li>nginx: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-    <li>elasticsearch + kibana: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
+    <li>elasticsearch + kibana: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></li>
   </ul>
   <h3>3D</h3>
   <ul>
