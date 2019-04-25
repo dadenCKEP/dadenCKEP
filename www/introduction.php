@@ -1,4 +1,4 @@
-<?php require_once("../include/tpl/header.html")?>
+<?php require_once("../include/tpl/header.html") ?>
 <div class="container">
   <h1 class="mt-3 mb-3 font-weight-bold border-bottom">Introduction</h1>
   <h2>基本情報</h2>
@@ -9,12 +9,13 @@
 
   <h2>Skill</h2>
   <p>
-    <i class="fa fa-star"></i>: 触っただけ<br> <i class="fa fa-star"></i><i class="fa fa-star"></i>: そこそこ使える,制作物有り<br> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>: 比較的詳しい
+    <i class="fa fa-star"></i>: 触っただけ<br> <i class="fa fa-star"></i><i class="fa fa-star"></i>: そこそこ使える,制作物有り<br> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>: 比較的詳しい <br>
+    <i class="far fa-file"></i>: worksへのリンク <i class="fas fa-link"></i>: 外部へのリンク <i class="fas fa-mask"></i>: 非公開
   </p>
   <h3>CAD</h3>
   <ul>
     <li>LTSpice: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-    <li>KiCad: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
+    <li>KiCad: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#ap-miconcar"><i class="far fa-file"></i></a></li>
     <li>Eagle: <i class="fa fa-star"></i></li>
     <li>Fusion360: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
   </ul>
@@ -23,13 +24,18 @@
     <li>C/C++: <i class="fa fa-star"></i><i class="fa fa-star"></i>
       <ul>
         <li>Win32API: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-      </ul></li>
+      </ul>
+    </li>
     <li>C#: <i class="fa fa-star"></i><i class="fa fa-star"></i>
       <ul>
         <li>.NET Framework: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-      </ul></li>
-    <li>PHP: <i class="fa fa-star"></i><i class="fa fa-star"></i> ある程度書けるがフレームワークの使用経験少
+      </ul>
     </li>
+    <li>PHP: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"> <a href="works.php#this-website"><i class="far fa-file"></i></a> <a href="works.php#vrchat-world"><i class="far fa-file"></i></a></i>
+    </li>
+    <ul>
+      <li>Laravel: <i class="fa fa-star"></i></li>
+    </ul>
     <li>Python3: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
     <li>HTML/CSS: <i class="fa fa-star"></i><i class="fa fa-star"></i> このサイトを作れる程度
     </li>
@@ -38,31 +44,33 @@
     </li>
     <li>JavaScript: <i class="fa fa-star"></i>
       <ul>
-        <li>PixiJS: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
+        <li>PixiJS: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="https://github.com/SpriteStudio/SS6PlayerForWeb"><i class="fas fa-link"></i></a></li>
         <li>React: <i class="fa fa-star"></i></li>
         <li>Redux: <i class="fa fa-star"></i></li>
         <li>axios: <i class="fa fa-star"></i></li>
-      </ul></li>
+      </ul>
+    </li>
+    <li>TypeScript: <i class="fa fa-star"></i></li>
   </ul>
   <h3>Hardware</h3>
   <ul>
     <li>AVR: <i class="fa fa-star"></i></li>
     <li>PIC: <i class="fa fa-star"></i></li>
-    <li>Arduino: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-    <li>ESP32: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-    <li>Raspberry Pi: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
+    <li>Arduino: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#ap-miconcar"><i class="far fa-file"></i></a></li>
+    <li>ESP32: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#sensor-system"><i class="far fa-file"></i></a></li>
+    <li>Raspberry Pi: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#server-system"><i class="far fa-file"></i></a> <a href="works.php#sensor-system"><i class="far fa-file"></i></a></li>
   </ul>
   <h3>Software</h3>
   <ul>
     <li>apache: <i class="fa fa-star"></i></li>
-    <li>nginx: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-    <li>elasticsearch + kibana: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></li>
+    <li>nginx: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#server-system"><i class="far fa-file"></i></a></li>
+    <li>elasticsearch + kibana: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <i class="fas fa-mask"></i></li>
   </ul>
   <h3>3D</h3>
   <ul>
-    <li>Blender: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-    <li>Unity: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-    <li>Substance Painter: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
+    <li>Blender: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#vrchat-world"><i class="far fa-file"></i></a></li>
+    <li>Unity: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#vrchat-world"><i class="far fa-file"></i></a></li>
+    <li>Substance Painter: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#vrchat-world"><i class="far fa-file"></i></a></li>
   </ul>
   <h3>Other</h3>
   <ul>
@@ -70,12 +78,12 @@
   </ul>
 
   <h2>Qualifications</h2>
-  <p>英検準二級</p>
   <p>第三級アマチュア無線技士</p>
+  <p>英検準二級</p>
   <p>普通自動車免許</p>
 
   <h2>Education</h2>
   <p>中央大学理工学部電気電子情報通信工学科 在学中</p>
 
 </div>
-<?php require_once("../include/tpl/footer.html")?>
+<?php require_once("../include/tpl/footer.html") ?>
