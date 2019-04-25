@@ -65,10 +65,14 @@
             <i class="fas fa-thermometer-half fa-5x"></i><i class="fas fa-tint fa-5x"></i>
           </h3>
           <h3>
-            <a href="">Sensor Management System</a>
+            Sensor Management System
           </h3>
           <p class="card-text">
-            サーバーの温度や室内の環境センサ各種などをM2Xを通して統合管理しています。
+            サーバーの温度や室内の環境センサ各種などをM2Xを通して統合管理しています。<br>
+            <ul>
+              <li><a href="https://m2x.att.com/dashboards/shared/addfcb096712f3bc67053fd3c88664a4"><i class="fas fa-link"></i> M2X Dashboard</a></li>
+              <li><a href="dashboard.php"><i class="far fa-file"></i> Dashboard page</a></li>
+            </ul>
           </p>
         </div>
       </div>
