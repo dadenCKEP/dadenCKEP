@@ -3,7 +3,7 @@
   <h1 class="mt-3 mb-3 font-weight-bold border-bottom">Works</h1>
   <div class="row">
     <div class="col-lg-6 col-sm-12">
-      <div class="card m-2">
+      <div class="card m-2" id="keyboard-helix">
         <img class="card-img-top" src="./image/keyboard.jpg" alt="Helix-CKEP">
         <div class="card-body">
           <h3 class="card-title">Helix - CKEP</h3>
@@ -14,7 +14,7 @@
       </div>
     </div>
     <div class="col-lg-6 col-sm-12">
-      <div class="card m-2">
+      <div class="card m-2" id="vrchat-world">
         <img class="card-img-top" src="image/vrc.png" alt="VRChat">
         <div class="card-body">
           <h3>CKEP VR Base / daden's hideout</h3>
@@ -26,7 +26,7 @@
     </div>
     <div class="row">
       <div class="col-lg-6 col-sm-12">
-        <div class="card m-2">
+        <div class="card m-2" id="ap-miconcar">
           <img class="card-img-top" src="./image/miconcar.png" alt="AP-MiconCar">
           <div class="card-body">
             <h3 class="card-title">
@@ -37,7 +37,7 @@
         </div>
       </div>
       <div class="col-lg-6 col-sm-12">
-        <div class="card m-2">
+        <div class="card m-2" id="server-system">
           <img class="card-img-top" src="./image/server.png" alt="Server">
           <div class="card-body">
             <h3>
@@ -52,7 +52,7 @@
     </div>
     <div class="row">
       <div class="col-lg-6 col-sm-12">
-        <div class="card m-2">
+        <div class="card m-2" id="game-server">
           <div class="card-body">
             <h3 class="text-center">
             <i class="fas fa-cogs fa-5x"></i><i class="fas fa-hammer fa-5x"></i>
@@ -67,13 +67,13 @@
         </div>
       </div>
       <div class="col-lg-6 col-sm-12">
-        <div class="card m-2">
+        <div class="card m-2" id="this-website">
           <div class="card-body">
             <h3 class="card-title text-center">
               <i class="far fa-file-alt fa-5x"></i><br>(This page)
             </h3>
             <p class="card-text">
-              このサイト。<a href="https://github.com/dadenCKEP/dadenCKEP">Github</a>にソースコードがあります。<br> 複数のRaspberry Pi等にて運用されており、masterブランチがこのサーバーに反映されるようになっています。
+              このウェブサイト。<a href="https://github.com/dadenCKEP/dadenCKEP">Github</a>にソースコードがあります。<br> 複数のRaspberry Pi等にて運用されており、masterブランチがこのサーバーに反映されるようになっています。
             </p>
           </div>
         </div>

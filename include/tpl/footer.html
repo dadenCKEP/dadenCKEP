@@ -7,5 +7,16 @@
 <script src="https://p.trellocdn.com/embed.min.js"></script>
 <!-- M2X API -->
 <script src="https://m2x.att.com/widgets.js" async></script>
+<!-- highlight -->
+<script>
+// navbar
+Array.prototype.getLastVal = function (){ return this[this.length -1];}
+$(function() {
+    // navbar
+    $('li a[href^="' + location.pathname.split("/").getLastVal() + '"]').parent().addClass('active');
+    // Location hash(card)
+    if(location.hash)$(location.hash + '.card').addClass('alert-info');
+});
+</script>
 </body>
 </html>
