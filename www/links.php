@@ -21,7 +21,7 @@
         <a href="https://wiki.ckep.info"><i class="fas fa-book fa-5x"></i></a>
       </div>
       <div class="col-sm-3 col-6 py-3">
-        <a href="http://blog.ckep.info"><i class="fab fa-wordpress fa-5x"></i></a>
+      <i class="fab fa-blogger fa-5x" data-toggle="tooltip" data-placement="bottom" title="WIP"></i>
       </div>
       <div class="col-sm-3 col-6 py-3">
         <a href="https://twitter.com/ranchanCKEP"><i class="fas fa-bell fa-5x"></i></a>
