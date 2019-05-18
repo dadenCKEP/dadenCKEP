@@ -10,7 +10,7 @@
         <a href="https://github.com/dadenCKEP"><i class="fab fa-github fa-5x"></i></a>
       </div>
       <div class="col-sm-3 col-6 py-3">
-        <a href="https://www.amazon.co.jp/hz/wishlist/ls/3OMY1ZNKMKE0J/?type=wishlist&filter=all&tag=daden-22"><i class="fab fa-amazon fa-5x"></i></a>
+        <a href="https://www.amazon.co.jp/hz/wishlist/ls/3OMY1ZNKMKE0J/?tag=daden-22"><i class="fab fa-amazon fa-5x"></i></a>
       </div>
       <div class="col-sm-3 col-6 py-3">
         <a href="https://steamcommunity.com/id/dadenCKEP"><i class="fab fa-steam fa-5x"></i></a>
