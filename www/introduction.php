@@ -65,6 +65,8 @@
     <li>apache: <i class="fa fa-star"></i></li>
     <li>nginx: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#server-system"><i class="far fa-file"></i></a></li>
     <li>elasticsearch + kibana: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <i class="fas fa-mask"></i></li>
+    <li>nodeRED: <i class="fa fa-star"></i><i class="fa fa-star"></i> <i class="fas fa-mask"></i></li>
+    <li>Jenkins: <i class="fa fa-star"></i> <i class="fas fa-mask"></i></li>
   </ul>
   <h3>3D</h3>
   <ul>
