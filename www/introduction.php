@@ -55,7 +55,7 @@
   <h3>Hardware</h3>
   <ul>
     <li>AVR: <i class="fa fa-star"></i></li>
-    <li>PIC: <i class="fa fa-star"></i></li>
+    <li>PIC: <i class="fa fa-star"></i><i class="fa fa-star"></i></li>
     <li>Arduino: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#ap-miconcar"><i class="far fa-file"></i></a></li>
     <li>ESP32: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#sensor-system"><i class="far fa-file"></i></a></li>
     <li>Raspberry Pi: <i class="fa fa-star"></i><i class="fa fa-star"></i> <a href="works.php#server-system"><i class="far fa-file"></i></a> <a href="works.php#sensor-system"><i class="far fa-file"></i></a></li>
