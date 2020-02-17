@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 29  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -14,22 +14,30 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-# [[feature]]
-#   icon = "r-project"
-#   icon_pack = "fab"
-#   name = "R"
-#   description = "90%"
-  
 [[feature]]
-  icon = "chart-line"
+  icon = "pencil-ruler"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "0%"  
-  
+  name = "CAD"
+  description = "LTSpice:★ <br>KiCad:★★  <br>Fusion360:★■"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "microchip"
   icon_pack = "fas"
-  name = "Photography"
-  description = "0%"
+  name = "Hardware"
+  description = "AVR:★ <br>PIC:★★■ <br>Arduino:★★ <br>ESP32:★★ <br>Raspberry Pi:★★★"
+
+[[feature]]
+  icon = "toolbox"
+  icon_pack = "fas"
+  name = "Software"
+  description = "nginx:★★ <br>Jenkins:★★■"
+
+[[feature]]
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "3D"
+  description = "Blender:★★ <br>Substance Painter:★★"
 
 +++
+★:ちょっと使える, ★★:制作物有り, ★★★:比較的詳しい <br>
+□:制作物(リンク), ■:制作物(非公開)
