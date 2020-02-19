@@ -94,11 +94,13 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
+  {icon = "book", icon_pack = "fas", name = "My Wiki", link = "https://wiki.ckep.info/"},
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/dadenCKEP"},
+  {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/dadenCKEP"},
   {icon = "steam", icon_pack = "fab", name = "Steam", link = "https://steamcommunity.com/id/dadenCKEP"},
   {icon = "twitch", icon_pack = "fab", name = "Twitch", link = "https://www.twitch.tv/dadenckep"},
   {icon = "store", icon_pack = "fas", name = "Booth", link = "https://ckep.booth.pm/"},
-  ]
+]
 
 ############################
 ## Social

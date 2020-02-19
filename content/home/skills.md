@@ -15,12 +15,6 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "pencil-ruler"
-  icon_pack = "fas"
-  name = "CAD"
-  description = "LTSpice:★ <br>KiCad:★★  <br>Fusion360:★■"
-
-[[feature]]
   icon = "microchip"
   icon_pack = "fas"
   name = "Hardware"
@@ -37,6 +31,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "3D"
   description = "Blender:★★ <br>Substance Painter:★★"
+
+[[feature]]
+  icon = "pencil-ruler"
+  icon_pack = "fas"
+  name = "CAD"
+  description = "LTSpice:★ <br>KiCad:★★  <br>Fusion360:★■"
 
 +++
 ★:ちょっと使える, ★★:制作物有り, ★★★:比較的詳しい <br>

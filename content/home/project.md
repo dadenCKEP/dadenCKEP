@@ -26,8 +26,16 @@ subtitle = ""
   tag = "*"
 
 [[content.filter_button]]
+  name = "Hardware"
+  tag = "Hardware"
+
+[[content.filter_button]]
   name = "External"
   tag = "External"
+
+[[content.filter_button]]
+  name = "Other"
+  tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

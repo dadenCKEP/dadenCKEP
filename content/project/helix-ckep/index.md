@@ -4,7 +4,7 @@
 title: "Helix - CKEP"
 summary: ""
 authors: []
-tags: []
+tags: ["Hardware"]
 categories: []
 date: 2020-02-18T15:34:29+09:00
 
