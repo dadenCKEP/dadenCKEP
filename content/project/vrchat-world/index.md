@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "VRChat World"
-summary: ""
+summary: "VRメタバース[VRChat](https://www.vrchat.net/)のワールド。自作3Dモデル・シェーダの展示等。小物まですべてフルスクラッチの実家の自室再現ワールドも。"
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+VRメタバース[VRChat](https://www.vrchat.net/)のワールド。自作3Dモデル・シェーダの展示等。小物まですべてフルスクラッチの実家の自室再現ワールドも。

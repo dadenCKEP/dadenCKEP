@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Helix - CKEP"
-summary: ""
+summary: "オープンソースの分割型格子配列キーボード[Helix](https://github.com/MakotoKurauchi/helix)のカスタム。メンテナンス性重視で既にテセウスの船状態。"
 authors: []
 tags: ["Hardware"]
 categories: []

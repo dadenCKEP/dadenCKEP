@@ -18,26 +18,31 @@ subtitle = ""
   icon = "microchip"
   icon_pack = "fas"
   name = "Hardware"
-  description = "AVR:★ <br>PIC:★★■ <br>Arduino:★★ <br>ESP32:★★ <br>Raspberry Pi:★★★"
+  description = "AVR:★ <br>PIC:★★■ <br>Arduino:★★[□](/project/ap-miconcar) <br>ESP32:★★□ <br>Raspberry Pi:★★★■□"
 
 [[feature]]
   icon = "toolbox"
   icon_pack = "fas"
   name = "Software"
-  description = "nginx:★★ <br>Jenkins:★★■"
+  description = "nginx:★★■[□]() <br>Jenkins:★★■[□](/project/vrchat-world)"
 
 [[feature]]
   icon = "cubes"
   icon_pack = "fas"
   name = "3D"
-  description = "Blender:★★ <br>Substance Painter:★★"
+  description = "Blender:★★[□](/project/vrchat-world) <br>Substance Painter:★★[□](/project/vrchat-world)"
 
 [[feature]]
   icon = "pencil-ruler"
   icon_pack = "fas"
   name = "CAD"
-  description = "LTSpice:★ <br>KiCad:★★  <br>Fusion360:★■"
+  description = "LTSpice:★ <br>KiCad:★★[□](/project/ap-miconcar)  <br>Fusion360:★■"
 
+[[feature]]
+  icon = "hammer"
+  icon_pack = "fas"
+  name = "Other"
+  description = "Form2:★★"
 +++
 ★:ちょっと使える, ★★:制作物有り, ★★★:比較的詳しい <br>
 □:制作物(リンク), ■:制作物(非公開)

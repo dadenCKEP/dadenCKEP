@@ -27,6 +27,12 @@ subtitle = "(Programming)"
   description = "*:★★★"
 
 [[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "C#"
+  description = "*:★★■ <br>.NET Framework: ★★■"
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "AP-MiconCar"
-summary: ""
+summary: "Arduino Uno拡張基板として設計されたマイコンカー用汎用基板。品質の低い手付配線と接触の悪い自作ケーブル、安定性の低いジャンパケーブルからサークルの新入生を解放するために試作。"
 authors: []
 tags: ["Hardware"]
 categories: []
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Arduino Uno拡張基板として設計されたマイコンカー用汎用基板。
+品質の低い手付配線と接触の悪い自作ケーブル、安定性の低いジャンパケーブルからサークルの新入生を解放するために試作。
