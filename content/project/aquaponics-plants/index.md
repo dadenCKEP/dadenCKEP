@@ -4,9 +4,9 @@
 title: "Aquaponics Plants"
 summary: "自室で維持可能な簡易水耕栽培設備の研究。面倒なのでベランダにも出したくない。"
 authors: []
-tags: []
+tags: ["Hardware"]
 categories: []
-date: 2020-02-20T15:19:31+09:00
+date: 2017-12-21T00:00:00+09:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

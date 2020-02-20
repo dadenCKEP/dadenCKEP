@@ -6,7 +6,7 @@ summary: "オープンソースの分割型格子配列キーボード[Helix](ht
 authors: []
 tags: ["Hardware"]
 categories: []
-date: 2020-02-18T15:34:29+09:00
+date: 2018-09-29T17:22:00+09:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +39,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+オープンソースの分割型格子配列キーボード[Helix](https://github.com/MakotoKurauchi/helix)のカスタム。
+
+## キーキャップ・キースイッチ
+キースイッチはCherry MX クリア軸(MX1A-C1NN)で、キーキャップはFILCO Calendar Keycap Setとそれ以外はバラバラ。
+
+## キーマップ
+日本語配列をベースにテンキーを追加し、左右交換モードを追加した配列。keymapは気が向いたら公開予定。
+
+## メンテナンス性重視のカスタム
+メンテナンス性を重視し、一部の入手性が低いor互換が低い部品を別のものに交換してある。
+既にカバーアクリルプレート、Arduino Pro Micro、キースイッチなどは何度か交換されている。

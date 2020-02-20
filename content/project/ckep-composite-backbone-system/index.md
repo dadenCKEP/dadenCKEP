@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "CKEP-Composite-Backbone-System"
-summary: ""
+summary: "Webサービスを可能な限り安くホストするための設備"
 authors: []
 tags: []
 categories: []
-date: 2020-02-18T16:49:37+09:00
+date: 2017-07-09T16:49:37+09:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

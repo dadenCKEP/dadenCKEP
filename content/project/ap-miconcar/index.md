@@ -6,7 +6,7 @@ summary: "Arduino Uno拡張基板として設計されたマイコンカー用�
 authors: []
 tags: ["Hardware"]
 categories: []
-date: 2020-02-18T16:44:44+09:00
+date: 2018-01-04T00:00:00+09:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
