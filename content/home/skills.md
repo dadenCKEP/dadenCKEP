@@ -18,7 +18,7 @@ subtitle = ""
   icon = "microchip"
   icon_pack = "fas"
   name = "Hardware"
-  description = "AVR:★ <br>PIC:★★■ <br>Arduino:★★[□](/project/ap-miconcar) <br>ESP32:★★□ <br>Raspberry Pi:★★★■[□](/project/ckep-composite-backbone-system)"
+  description = "AVR:★ <br>PIC:★★■ <br>Arduino:★★[□](/project/ap-miconcar) <br>ESP32:★★□ <br>Raspberry Pi:★★★■□[□](/project/ckep-composite-backbone-system)"
 
 [[feature]]
   icon = "toolbox"
