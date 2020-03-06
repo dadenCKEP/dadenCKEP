@@ -48,6 +48,6 @@ subtitle = "(Programming)"
   icon = "code"
   icon_pack = "fas"
   name = "Other"
-  description = "HTML/CSS:★★ <br>OpenCV:★★★■"
+  description = "HTML/CSS:★★ <br>OpenCV:★★★■ <br>Tensorflow:★"
 
 +++
