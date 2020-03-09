@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hardware | dadenCKEP</title><link>/tags/hardware/</link><atom:link href="/tags/hardware/index.xml" rel="self" type="application/rss+xml"/><description>Hardware</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><lastBuildDate>Sat, 29 Sep 2018 17:22:00 +0900</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Hardware</title><link>/tags/hardware/</link></image><item><title>Helix - CKEP</title><link>/project/helix-ckep/</link><pubDate>Sat, 29 Sep 2018 17:22:00 +0900</pubDate><guid>/project/helix-ckep/</guid><description>&lt;p>オープンソースの分割型格子配列キーボード&lt;a href="https://github.com/MakotoKurauchi/helix">Helix&lt;/a>のカスタム。&lt;/p>
+&lt;h2 id="heading">キーキャップ・キースイッチ&lt;/h2>
+&lt;p>キースイッチはCherry MX クリア軸(MX1A-C1NN)で、キーキャップはFILCO Calendar Keycap Setとそれ以外はバラバラ。
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">来年のカレンダー届きました &lt;a href="https://t.co/CPxXjMxIyz">pic.twitter.com/CPxXjMxIyz&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/1202556067755855872?ref_src=twsrc%5Etfw">December 5, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/p>
+&lt;h2 id="heading-1">キーマップ&lt;/h2>
+&lt;p>日本語配列をベースにテンキーを追加し、左右交換モードを追加した配列。keymapは気が向いたら公開予定。&lt;/p>
+&lt;h2 id="heading-2">メンテナンス性重視のカスタム&lt;/h2>
+&lt;p>メンテナンス性を重視し、一部の入手性が低いor互換が低い部品を別のものに交換してある。
+既にカバーアクリルプレート、Arduino Pro Micro、キースイッチなどは何度か交換されている。&lt;/p>
+&lt;h2 id="heading-3">携帯ケース&lt;/h2>
+&lt;p>高さがあるため持ち運びにはあまり向かない。
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">Helixがいい感じに収まるタッパーをダイソーで購入した。これで破損リスクをかなり抑えられる！ &lt;a href="https://t.co/MFI8B77ASE">pic.twitter.com/MFI8B77ASE&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/1108712727554318336?ref_src=twsrc%5Etfw">March 21, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/p></description></item><item><title>AP-MiconCar</title><link>/project/ap-miconcar/</link><pubDate>Thu, 04 Jan 2018 00:00:00 +0900</pubDate><guid>/project/ap-miconcar/</guid><description>&lt;p>Arduino Uno拡張基板として設計されたマイコンカー用汎用基板。
+品質の低い手付配線と接触の悪い自作ケーブル、安定性の低いジャンパケーブルからサークルの新入生を解放するために試作。&lt;/p>
+&lt;p>&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">はじめて頼んだ基板が来た&lt;br>5→7枚だからRかな&lt;a href="https://twitter.com/hashtag/elecrow%E3%82%AC%E3%83%81%E3%83%A3?src=hash&amp;amp;ref_src=twsrc%5Etfw">#elecrowガチャ&lt;/a> &lt;a href="https://t.co/XCyp03ZLS6">pic.twitter.com/XCyp03ZLS6&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/948836779678826496?ref_src=twsrc%5Etfw">January 4, 2018&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">コネクタ二種類も買い忘れた &lt;a href="https://t.co/OFiLLQpdKb">pic.twitter.com/OFiLLQpdKb&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/949289001323716608?ref_src=twsrc%5Etfw">January 5, 2018&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/p></description></item><item><title>Aquaponics Plants</title><link>/project/aquaponics-plants/</link><pubDate>Thu, 21 Dec 2017 00:00:00 +0900</pubDate><guid>/project/aquaponics-plants/</guid><description/></item><item><title>Smart House</title><link>/project/smart-house/</link><pubDate>Tue, 21 Mar 2017 00:00:00 +0900</pubDate><guid>/project/smart-house/</guid><description>&lt;p>各種家電の総合管理とセンシングによる自動制御。&lt;/p>
+&lt;h2 id="node-red">Node-RED&lt;/h2>
+&lt;p>Smart Houseの中心は&lt;a href="https://nodered.org/">Node-RED&lt;/a>を使用している。
+Raspberry Pi上で運用している。 (&lt;a href="https://nodered.org/docs/getting-started/raspberrypi">https://nodered.org/docs/getting-started/raspberrypi&lt;/a>)&lt;/p>
+&lt;h2 id="heading">使用している既製品のデバイス&lt;/h2>
+&lt;ul>
+&lt;li>Philips Hue&lt;/li>
+&lt;li>Google Nest Hub&lt;/li>
+&lt;li>Nature remo&lt;/li>
+&lt;/ul>
+&lt;h2 id="heading-1">連携しているサービス&lt;/h2>
+&lt;ul>
+&lt;li>IFTTT (API非公開のサービスやスマホへの通知など)&lt;/li>
+&lt;li>Discord (Webhookが高機能)&lt;/li>
+&lt;li>Twitter&lt;/li>
+&lt;/ul>
+&lt;h2 id="heading-2">室内用センサ&lt;/h2>
+&lt;p>&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">長年この状態で本稼働してた室内センサー、さすがにそろそろどうにかしたい。 &lt;a href="https://t.co/S5sCy0YG4p">pic.twitter.com/S5sCy0YG4p&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/1102823785655226368?ref_src=twsrc%5Etfw">March 5, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+使用しているセンサ・マイコン&lt;/p>
+&lt;ul>
+&lt;li>BME282&lt;/li>
+&lt;li>MH-Z19&lt;/li>
+&lt;li>ESP32&lt;/li>
+&lt;/ul>
+&lt;p>大きな台風が来た日のグラフ。気圧が急降下していることがわかる。
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">温湿度気圧グラフ。気圧だけめっちゃカーブがきれい。 &lt;a href="https://t.co/rt5JGGxOmy">pic.twitter.com/rt5JGGxOmy&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/1170913935127543809?ref_src=twsrc%5Etfw">September 9, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/p></description></item></channel></rss>
