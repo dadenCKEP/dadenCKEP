@@ -2,13 +2,13 @@
 &lt;p>個人的な情報の集積所となっている。&lt;/p>
 &lt;p>公開ページ: &lt;a href="https://wiki.ckep.info">https://wiki.ckep.info&lt;/a>&lt;br>
 リポジトリ(GitHub): &lt;a href="https://github.com/dadenCKEP/CKEP-wiki">https://github.com/dadenCKEP/CKEP-wiki&lt;/a>&lt;/p>
-&lt;h2 id="hugo">静的サイトジェネレータ「Hugo」による生成&lt;/h2>
+&lt;h2 id="hugo">静的サイトジェネレーター「Hugo」による生成&lt;/h2>
 &lt;p>&lt;a href="https://gohugo.io/">Hugo&lt;/a>により作成している。テーマは&lt;a href="https://learn.netlify.com/en/">LEARN&lt;/a>を使用している。&lt;/p>
 &lt;h2 id="github-actions--github-pages">GitHub Actions + GitHub Pagesによる運用&lt;/h2>
 &lt;p>GitHub Actionsにより生成を自動化し、GitHub Pagesによってホストしている。
 以前は&lt;a href="/project/ckep-composite-backbone-system">ckep-composite-backbone-system&lt;/a>を使用していたが、
 移行やバックアップの手間が酷いため切り替えに至った。&lt;/p>
-&lt;p>また、HugoはMarkdownベースのため、GitHubのWebサイト上のエディタで容易に編集ができる。&lt;/p></description></item><item><title>Helix - CKEP</title><link>/project/helix-ckep/</link><pubDate>Sat, 29 Sep 2018 17:22:00 +0900</pubDate><guid>/project/helix-ckep/</guid><description>&lt;p>オープンソースの分割型格子配列キーボード&lt;a href="https://github.com/MakotoKurauchi/helix">Helix&lt;/a>のカスタム。&lt;/p>
+&lt;p>また、HugoはMarkdownベースのため、GitHubのWebサイト上のエディターで容易に編集ができる。&lt;/p></description></item><item><title>Helix - CKEP</title><link>/project/helix-ckep/</link><pubDate>Sat, 29 Sep 2018 17:22:00 +0900</pubDate><guid>/project/helix-ckep/</guid><description>&lt;p>オープンソースの分割型格子配列キーボード&lt;a href="https://github.com/MakotoKurauchi/helix">Helix&lt;/a>のカスタム。&lt;/p>
 &lt;h2 id="heading">キーキャップ・キースイッチ&lt;/h2>
 &lt;p>キースイッチはCherry MX クリア軸(MX1A-C1NN)で、キーキャップはFILCO Calendar Keycap Setとそれ以外はバラバラ。
 &lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">来年のカレンダー届きました &lt;a href="https://t.co/CPxXjMxIyz">pic.twitter.com/CPxXjMxIyz&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/1202556067755855872?ref_src=twsrc%5Etfw">December 5, 2019&lt;/a>&lt;/blockquote>
@@ -17,13 +17,15 @@
 &lt;h2 id="heading-1">キーマップ&lt;/h2>
 &lt;p>日本語配列をベースにテンキーを追加し、左右交換モードを追加した配列。keymapは気が向いたら公開予定。&lt;/p>
 &lt;h2 id="heading-2">メンテナンス性重視のカスタム&lt;/h2>
-&lt;p>メンテナンス性を重視し、一部の入手性が低いor互換が低い部品を別のものに交換してある。
-既にカバーアクリルプレート、Arduino Pro Micro、キースイッチなどは何度か交換されている。&lt;/p>
+&lt;p>メンテナンス性を重視し、一部の入手性が低い、あるいは互換が低い部品を別のものに交換してある。
+また、すでにカバーアクリルプレート、Arduino Pro Micro、キースイッチなどは何度か交換されている。&lt;/p>
 &lt;h2 id="heading-3">携帯ケース&lt;/h2>
 &lt;p>高さがあるため持ち運びにはあまり向かない。
 &lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">Helixがいい感じに収まるタッパーをダイソーで購入した。これで破損リスクをかなり抑えられる！ &lt;a href="https://t.co/MFI8B77ASE">pic.twitter.com/MFI8B77ASE&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/1108712727554318336?ref_src=twsrc%5Etfw">March 21, 2019&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
-&lt;/p></description></item><item><title>VRChat World</title><link>/project/vrchat-world/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0900</pubDate><guid>/project/vrchat-world/</guid><description>&lt;p>VRメタバース&lt;a href="https://www.vrchat.net/">VRChat&lt;/a>のワールド。&lt;/p>
+&lt;/p>
+&lt;h2 id="heading-4">今後の予定&lt;/h2>
+&lt;p>キースイッチ交換のために2台目の製作を予定していたが、ベリリウム銅のholtite socketというものの存在を知ったため基板のみの交換を検討中。&lt;/p></description></item><item><title>VRChat World</title><link>/project/vrchat-world/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0900</pubDate><guid>/project/vrchat-world/</guid><description>&lt;p>VRメタバース&lt;a href="https://www.vrchat.net/">VRChat&lt;/a>のワールド。&lt;/p>
 &lt;h2 id="3d">自作自作3Dモデル・シェーダの展示&lt;/h2>
 &lt;p>小物まですべてフルスクラッチした実家の自室再現ワールドを始めとした3Dモデルの展示を兼ねている。
 主にBlender + Substance Painterで作成。&lt;/p>
@@ -54,10 +56,10 @@ Raspberry Pi上で運用している。 (&lt;a href="https://nodered.org/docs/ge
 &lt;li>Discord (Webhookが高機能)&lt;/li>
 &lt;li>Twitter&lt;/li>
 &lt;/ul>
-&lt;h2 id="heading-2">室内用センサ&lt;/h2>
+&lt;h2 id="heading-2">室内用センサー&lt;/h2>
 &lt;p>&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">長年この状態で本稼働してた室内センサー、さすがにそろそろどうにかしたい。 &lt;a href="https://t.co/S5sCy0YG4p">pic.twitter.com/S5sCy0YG4p&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/1102823785655226368?ref_src=twsrc%5Etfw">March 5, 2019&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
-使用しているセンサ・マイコン&lt;/p>
+使用しているセンサー・マイコン&lt;/p>
 &lt;ul>
 &lt;li>BME282&lt;/li>
 &lt;li>MH-Z19&lt;/li>
