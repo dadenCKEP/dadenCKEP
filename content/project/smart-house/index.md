@@ -33,9 +33,9 @@ Raspberry Pi上で運用している。 (https://nodered.org/docs/getting-starte
 * Discord (Webhookが高機能)
 * Twitter
 
-## 室内用センサ
+## 室内用センサー
 {{<tweet 1102823785655226368>}}
-使用しているセンサ・マイコン
+使用しているセンサー・マイコン
 * BME282
 * MH-Z19
 * ESP32
