@@ -42,7 +42,7 @@ subtitle = ""
   icon = "hammer"
   icon_pack = "fas"
   name = "Other"
-  description = "Form2:★★ <br>Raise3D Pro2:★★"
+  description = "Form2:★★ <br>Raise3D Pro2:★★ <br>Prusa i3 MK3S:★"
 +++
 ★:ちょっと使える, ★★:制作物有り, ★★★:比較的詳しい <br>
 □:制作物(リンク), ■:制作物(非公開)
