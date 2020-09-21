@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+## 概要
+Prusa i3 MK3Sは自己複製を可能とする自由な3Dプリンタを開発する[RepRapプロジェクト](https://reprap.org/wiki/RepRap/ja)の一部である。
+
+体系的な情報整理のため、詳細は[DADENCKEP-WIKI](https://wiki.ckep.info)へ
