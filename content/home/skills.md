@@ -36,13 +36,13 @@ subtitle = ""
   icon = "pencil-ruler"
   icon_pack = "fas"
   name = "CAD"
-  description = "LTSpice:★ <br>KiCad:★★[□](/project/ap-miconcar)  <br>Fusion360:★■"
+  description = "LTSpice:★ <br>KiCad:★★[□](/project/ap-miconcar)  <br>Fusion360:★★■"
 
 [[feature]]
   icon = "hammer"
   icon_pack = "fas"
-  name = "Other"
-  description = "Form2:★★ <br>Raise3D Pro2:★★ <br>Prusa i3 MK3S:★"
+  name = "3DPrint"
+  description = "Form2:★★ <br>Raise3D Pro2:★★ <br>Prusa i3 MK3S:★★★[□](/project/prusa-i3-mk3s)"
 +++
 ★:ちょっと使える, ★★:制作物有り, ★★★:比較的詳しい <br>
 □:制作物(リンク), ■:制作物(非公開)

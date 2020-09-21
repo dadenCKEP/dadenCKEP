@@ -100,6 +100,7 @@ contact_links = [
   {icon = "steam", icon_pack = "fab", name = "Steam", link = "https://steamcommunity.com/id/dadenCKEP"},
   {icon = "twitch", icon_pack = "fab", name = "Twitch", link = "https://www.twitch.tv/dadenckep"},
   {icon = "store", icon_pack = "fas", name = "Booth", link = "https://ckep.booth.pm/"},
+  {icon = "cubes", icon_pack = "fas", name = "Thingiverse", link = "https://www.thingiverse.com/dadenckep/"},
 ]
 
 ############################
