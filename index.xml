@@ -1,41 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dadenCKEP</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>dadenCKEP</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><lastBuildDate>Mon, 21 Sep 2020 16:35:38 +0900</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>dadenCKEP</title><link>/</link></image><item><title>Prusa I3 MK3S</title><link>/project/prusa-i3-mk3s/</link><pubDate>Mon, 21 Sep 2020 16:35:38 +0900</pubDate><guid>/project/prusa-i3-mk3s/</guid><description/></item><item><title>CKEP-wiki</title><link>/project/ckep-wiki/</link><pubDate>Thu, 19 Dec 2019 00:00:00 +0900</pubDate><guid>/project/ckep-wiki/</guid><description>&lt;h2 id="heading">概要&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dadenCKEP</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>dadenCKEP</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><lastBuildDate>Mon, 21 Sep 2020 16:35:38 +0900</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>dadenCKEP</title><link>/</link></image><item><title>Prusa I3 MK3S</title><link>/project/prusa-i3-mk3s/</link><pubDate>Mon, 21 Sep 2020 16:35:38 +0900</pubDate><guid>/project/prusa-i3-mk3s/</guid><description/></item><item><title>CKEP-wiki</title><link>/project/ckep-wiki/</link><pubDate>Thu, 19 Dec 2019 00:00:00 +0900</pubDate><guid>/project/ckep-wiki/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
 &lt;p>個人的な情報の集積所となっている。&lt;/p>
 &lt;p>公開ページ: &lt;a href="https://wiki.ckep.info">https://wiki.ckep.info&lt;/a>&lt;br>
 リポジトリ(GitHub): &lt;a href="https://github.com/dadenCKEP/CKEP-wiki">https://github.com/dadenCKEP/CKEP-wiki&lt;/a>&lt;/p>
-&lt;h2 id="hugo">静的サイトジェネレーター「Hugo」による生成&lt;/h2>
-&lt;p>&lt;a href="https://gohugo.io/">Hugo&lt;/a>により作成している。テーマは&lt;a href="https://learn.netlify.com/en/">LEARN&lt;/a>を使用している。&lt;/p>
-&lt;h2 id="github-actions--github-pages">GitHub Actions + GitHub Pagesによる運用&lt;/h2>
+&lt;h2 id="静的サイトジェネレーターhugoによる生成">静的サイトジェネレーター「Hugo」による生成&lt;/h2>
+&lt;p>
+&lt;a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo&lt;/a>により作成している。テーマは
+&lt;a href="https://learn.netlify.com/en/" target="_blank" rel="noopener">LEARN&lt;/a>を使用している。&lt;/p>
+&lt;h2 id="github-actions--github-pagesによる運用">GitHub Actions + GitHub Pagesによる運用&lt;/h2>
 &lt;p>GitHub Actionsにより生成を自動化し、GitHub Pagesによってホストしている。
-以前は&lt;a href="/project/ckep-composite-backbone-system">ckep-composite-backbone-system&lt;/a>を使用していたが、
+以前は
+&lt;a href="/project/ckep-composite-backbone-system">ckep-composite-backbone-system&lt;/a>を使用していたが、
 移行やバックアップの手間が酷いため切り替えに至った。&lt;/p>
-&lt;p>また、HugoはMarkdownベースのため、GitHubのWebサイト上のエディターで容易に編集ができる。&lt;/p></description></item><item><title>Helix - CKEP</title><link>/project/helix-ckep/</link><pubDate>Sat, 29 Sep 2018 17:22:00 +0900</pubDate><guid>/project/helix-ckep/</guid><description>&lt;p>オープンソースの分割型格子配列キーボード&lt;a href="https://github.com/MakotoKurauchi/helix">Helix&lt;/a>のカスタム。&lt;/p>
-&lt;h2 id="heading">キーキャップ・キースイッチ&lt;/h2>
+&lt;p>また、HugoはMarkdownベースのため、GitHubのWebサイト上のエディターで容易に編集ができる。&lt;/p></description></item><item><title>Helix - CKEP</title><link>/project/helix-ckep/</link><pubDate>Sat, 29 Sep 2018 17:22:00 +0900</pubDate><guid>/project/helix-ckep/</guid><description>&lt;p>オープンソースの分割型格子配列キーボード
+&lt;a href="https://github.com/MakotoKurauchi/helix" target="_blank" rel="noopener">Helix&lt;/a>のカスタム。&lt;/p>
+&lt;h2 id="キーキャップキースイッチ">キーキャップ・キースイッチ&lt;/h2>
 &lt;p>キースイッチはCherry MX クリア軸(MX1A-C1NN)で、キーキャップはFILCO Calendar Keycap Setとそれ以外はバラバラ。
 &lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">来年のカレンダー届きました &lt;a href="https://t.co/CPxXjMxIyz">pic.twitter.com/CPxXjMxIyz&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/1202556067755855872?ref_src=twsrc%5Etfw">December 5, 2019&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;/p>
-&lt;h2 id="heading-1">キーマップ&lt;/h2>
+&lt;h2 id="キーマップ">キーマップ&lt;/h2>
 &lt;p>日本語配列をベースにテンキーを追加し、左右交換モードを追加した配列。keymapは気が向いたら公開予定。&lt;/p>
-&lt;h2 id="heading-2">メンテナンス性重視のカスタム&lt;/h2>
+&lt;h2 id="メンテナンス性重視のカスタム">メンテナンス性重視のカスタム&lt;/h2>
 &lt;p>メンテナンス性を重視し、一部の入手性が低い、あるいは互換が低い部品を別のものに交換してある。
 また、すでにカバーアクリルプレート、Arduino Pro Micro、キースイッチなどは何度か交換されている。&lt;/p>
-&lt;h2 id="heading-3">携帯ケース&lt;/h2>
+&lt;h2 id="携帯ケース">携帯ケース&lt;/h2>
 &lt;p>高さがあるため持ち運びにはあまり向かない。
 &lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">Helixがいい感じに収まるタッパーをダイソーで購入した。これで破損リスクをかなり抑えられる！ &lt;a href="https://t.co/MFI8B77ASE">pic.twitter.com/MFI8B77ASE&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/1108712727554318336?ref_src=twsrc%5Etfw">March 21, 2019&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;/p>
-&lt;h2 id="heading-4">今後の予定&lt;/h2>
+&lt;h2 id="今後の予定">今後の予定&lt;/h2>
 &lt;p>キースイッチ交換のために2台目の製作を予定していたが、ベリリウム銅のholtite socketというものの存在を知ったため基板のみの交換を検討中。&lt;/p></description></item><item><title>Privacy Policy</title><link>/privacy/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate><guid>/privacy/</guid><description>&lt;h2 id="google-analytics">Google Analytics&lt;/h2>
 &lt;p>このサイトはGoogle Analyticsを使用しています。
-詳細は「GOOGLE のサービスを使用するサイトやアプリから収集した情報の GOOGLE による使用」のページ&lt;a href="https://policies.google.com/technologies/partner-sites">(https://policies.google.com/technologies/partner-sites)&lt;/a>をご確認ください。&lt;/p></description></item><item><title>VRChat World</title><link>/project/vrchat-world/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0900</pubDate><guid>/project/vrchat-world/</guid><description>&lt;p>VRメタバース&lt;a href="https://www.vrchat.net/">VRChat&lt;/a>のワールド。&lt;/p>
-&lt;h2 id="3d">自作自作3Dモデル・シェーダの展示&lt;/h2>
+詳細は「GOOGLE のサービスを使用するサイトやアプリから収集した情報の GOOGLE による使用」のページ
+&lt;a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">(https://policies.google.com/technologies/partner-sites)&lt;/a>をご確認ください。&lt;/p></description></item><item><title>VRChat World</title><link>/project/vrchat-world/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0900</pubDate><guid>/project/vrchat-world/</guid><description>&lt;p>VRメタバース
+&lt;a href="https://www.vrchat.net/" target="_blank" rel="noopener">VRChat&lt;/a>のワールド。&lt;/p>
+&lt;h2 id="自作自作3dモデルシェーダの展示">自作自作3Dモデル・シェーダの展示&lt;/h2>
 &lt;p>小物まですべてフルスクラッチした実家の自室再現ワールドを始めとした3Dモデルの展示を兼ねている。
 主にBlender + Substance Painterで作成。&lt;/p>
-&lt;h2 id="jenkinsoculus-quest">Jenkinsを利用したOculus Quest対応&lt;/h2>
+&lt;h2 id="jenkinsを利用したoculus-quest対応">Jenkinsを利用したOculus Quest対応&lt;/h2>
 &lt;p>もともとGitを利用して管理しているため、Jenkinsを利用してPushを検知しTarget Platform変換をバックグラウンドで自動化することで少ない手間と待機時間でOculus Quest対応を可能に。
 将来的には非対応コンポーネントの除去やシェーダの変換なども対応予定。&lt;/p>
-&lt;h2 id="heading">その他&lt;/h2>
-&lt;p>&lt;a href="https://vrcworld.wiki.fc2.com/">VRChat 技術メモ帳 - VRChat tech notes&lt;/a>の管理人をしています。&lt;/p></description></item><item><title>AP-MiconCar</title><link>/project/ap-miconcar/</link><pubDate>Thu, 04 Jan 2018 00:00:00 +0900</pubDate><guid>/project/ap-miconcar/</guid><description>&lt;p>Arduino Uno拡張基板として設計されたマイコンカー用汎用基板。
+&lt;h2 id="その他">その他&lt;/h2>
+&lt;p>
+&lt;a href="https://vrcworld.wiki.fc2.com/" target="_blank" rel="noopener">VRChat 技術メモ帳 - VRChat tech notes&lt;/a>の管理人をしています。&lt;/p></description></item><item><title>AP-MiconCar</title><link>/project/ap-miconcar/</link><pubDate>Thu, 04 Jan 2018 00:00:00 +0900</pubDate><guid>/project/ap-miconcar/</guid><description>&lt;p>Arduino Uno拡張基板として設計されたマイコンカー用汎用基板。
 品質の低い手付配線と接触の悪い自作ケーブル、安定性の低いジャンパケーブルからサークルの新入生を解放するために試作。&lt;/p>
 &lt;p>&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">はじめて頼んだ基板が来た&lt;br>5→7枚だからRかな&lt;a href="https://twitter.com/hashtag/elecrow%E3%82%AC%E3%83%81%E3%83%A3?src=hash&amp;amp;ref_src=twsrc%5Etfw">#elecrowガチャ&lt;/a> &lt;a href="https://t.co/XCyp03ZLS6">pic.twitter.com/XCyp03ZLS6&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/948836779678826496?ref_src=twsrc%5Etfw">January 4, 2018&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
@@ -44,21 +51,22 @@
 &lt;/p></description></item><item><title>Aquaponics Plants</title><link>/project/aquaponics-plants/</link><pubDate>Thu, 21 Dec 2017 00:00:00 +0900</pubDate><guid>/project/aquaponics-plants/</guid><description/></item><item><title>CKEP-Composite-Backbone-System</title><link>/project/ckep-composite-backbone-system/</link><pubDate>Sun, 09 Jul 2017 16:49:37 +0900</pubDate><guid>/project/ckep-composite-backbone-system/</guid><description>&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">4台目おいた直後に移動させられた &lt;a href="https://t.co/YanwpdVN6B">pic.twitter.com/YanwpdVN6B&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/884013105209950209?ref_src=twsrc%5Etfw">July 9, 2017&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>Smart House</title><link>/project/smart-house/</link><pubDate>Tue, 21 Mar 2017 00:00:00 +0900</pubDate><guid>/project/smart-house/</guid><description>&lt;p>各種家電の総合管理とセンシングによる自動制御。&lt;/p>
 &lt;h2 id="node-red">Node-RED&lt;/h2>
-&lt;p>Smart Houseの中心は&lt;a href="https://nodered.org/">Node-RED&lt;/a>を使用している。
+&lt;p>Smart Houseの中心は
+&lt;a href="https://nodered.org/" target="_blank" rel="noopener">Node-RED&lt;/a>を使用している。
 Raspberry Pi上で運用している。 (&lt;a href="https://nodered.org/docs/getting-started/raspberrypi">https://nodered.org/docs/getting-started/raspberrypi&lt;/a>)&lt;/p>
-&lt;h2 id="heading">使用している既製品のデバイス&lt;/h2>
+&lt;h2 id="使用している既製品のデバイス">使用している既製品のデバイス&lt;/h2>
 &lt;ul>
 &lt;li>Philips Hue&lt;/li>
 &lt;li>Google Nest Hub&lt;/li>
 &lt;li>Nature remo&lt;/li>
 &lt;/ul>
-&lt;h2 id="heading-1">連携しているサービス&lt;/h2>
+&lt;h2 id="連携しているサービス">連携しているサービス&lt;/h2>
 &lt;ul>
 &lt;li>IFTTT (API非公開のサービスやスマホへの通知など)&lt;/li>
 &lt;li>Discord (Webhookが高機能)&lt;/li>
 &lt;li>Twitter&lt;/li>
 &lt;/ul>
-&lt;h2 id="heading-2">室内用センサー&lt;/h2>
+&lt;h2 id="室内用センサー">室内用センサー&lt;/h2>
 &lt;p>&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">長年この状態で本稼働してた室内センサー、さすがにそろそろどうにかしたい。 &lt;a href="https://t.co/S5sCy0YG4p">pic.twitter.com/S5sCy0YG4p&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/1102823785655226368?ref_src=twsrc%5Etfw">March 5, 2019&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 使用しているセンサー・マイコン&lt;/p>
