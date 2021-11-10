@@ -34,11 +34,11 @@ Raspberry Pi上で運用している。 (https://nodered.org/docs/getting-starte
 * Twitter
 
 ## 室内用センサー
-{{<tweet 1102823785655226368>}}
+{{<tweet user="dadenCKEP" id="1102823785655226368">}}
 使用しているセンサー・マイコン
 * BME282
 * MH-Z19
 * ESP32
 
 大きな台風が来た日のグラフ。気圧が急降下していることがわかる。
-{{<tweet 1170913935127543809>}}
+{{<tweet user="dadenCKEP" id="1170913935127543809">}}

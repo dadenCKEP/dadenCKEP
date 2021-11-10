@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-{{<tweet 884013105209950209>}}
+{{<tweet user="dadenCKEP" id="884013105209950209">}}
