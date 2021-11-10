@@ -26,7 +26,8 @@
 &lt;h2 id="node-red">Node-RED&lt;/h2>
 &lt;p>Smart Houseの中心は
 &lt;a href="https://nodered.org/" target="_blank" rel="noopener">Node-RED&lt;/a>を使用している。
-Raspberry Pi上で運用している。 (&lt;a href="https://nodered.org/docs/getting-started/raspberrypi">https://nodered.org/docs/getting-started/raspberrypi&lt;/a>)&lt;/p>
+Raspberry Pi上で運用している。 (
+&lt;a href="https://nodered.org/docs/getting-started/raspberrypi" target="_blank" rel="noopener">https://nodered.org/docs/getting-started/raspberrypi&lt;/a>)&lt;/p>
 &lt;h2 id="使用している既製品のデバイス">使用している既製品のデバイス&lt;/h2>
 &lt;ul>
 &lt;li>Philips Hue&lt;/li>

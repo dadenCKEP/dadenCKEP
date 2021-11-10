@@ -4,8 +4,10 @@
 &lt;p>体系的な情報整理のため、詳細は
 &lt;a href="https://wiki.ckep.info" target="_blank" rel="noopener">DADENCKEP-WIKI&lt;/a>へ&lt;/p></description></item><item><title>CKEP-wiki</title><link>/project/ckep-wiki/</link><pubDate>Thu, 19 Dec 2019 00:00:00 +0900</pubDate><guid>/project/ckep-wiki/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
 &lt;p>個人的な情報の集積所となっている。&lt;/p>
-&lt;p>公開ページ: &lt;a href="https://wiki.ckep.info">https://wiki.ckep.info&lt;/a>&lt;br>
-リポジトリ(GitHub): &lt;a href="https://github.com/dadenCKEP/CKEP-wiki">https://github.com/dadenCKEP/CKEP-wiki&lt;/a>&lt;/p>
+&lt;p>公開ページ:
+&lt;a href="https://wiki.ckep.info" target="_blank" rel="noopener">https://wiki.ckep.info&lt;/a>&lt;br>
+リポジトリ(GitHub):
+&lt;a href="https://github.com/dadenCKEP/CKEP-wiki" target="_blank" rel="noopener">https://github.com/dadenCKEP/CKEP-wiki&lt;/a>&lt;/p>
 &lt;h2 id="静的サイトジェネレーターhugoによる生成">静的サイトジェネレーター「Hugo」による生成&lt;/h2>
 &lt;p>
 &lt;a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo&lt;/a>により作成している。テーマは
@@ -54,7 +56,8 @@
 &lt;h2 id="node-red">Node-RED&lt;/h2>
 &lt;p>Smart Houseの中心は
 &lt;a href="https://nodered.org/" target="_blank" rel="noopener">Node-RED&lt;/a>を使用している。
-Raspberry Pi上で運用している。 (&lt;a href="https://nodered.org/docs/getting-started/raspberrypi">https://nodered.org/docs/getting-started/raspberrypi&lt;/a>)&lt;/p>
+Raspberry Pi上で運用している。 (
+&lt;a href="https://nodered.org/docs/getting-started/raspberrypi" target="_blank" rel="noopener">https://nodered.org/docs/getting-started/raspberrypi&lt;/a>)&lt;/p>
 &lt;h2 id="使用している既製品のデバイス">使用している既製品のデバイス&lt;/h2>
 &lt;ul>
 &lt;li>Philips Hue&lt;/li>
