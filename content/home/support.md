@@ -12,5 +12,7 @@ title = "Support"
   columns = "2"
 +++
 
-## [{{< icon name="amazon" pack="fab" >}}Amazon.co.jp](https://www.amazon.co.jp/hz/wishlist/ls/3OMY1ZNKMKE0J/?tag=daden-22)
+## [{{< icon name="amazon" pack="fab" >}}Amazon.co.jp - Wish list](https://www.amazon.co.jp/hz/wishlist/ls/3OMY1ZNKMKE0J/?tag=daden-22)
 ※上記のリンクはAmazon.co.jpアソシエイトを使用しています。
+
+## [{{< icon name="mug-hot" pack="fas" >}}Ko-fi](https://ko-fi.com/dadenckep)
