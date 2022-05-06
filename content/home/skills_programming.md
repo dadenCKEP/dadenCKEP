@@ -18,7 +18,7 @@ subtitle = "(Programming)"
   icon = "terminal"
   icon_pack = "fas"
   name = "C/C++"
-  description = "*:★★ <br>Win32API:★★"
+  description = "*:★★ <br>C89/90:★★★ <br>Win32API:★★"
 
 [[feature]]
   icon = "php"
