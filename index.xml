@@ -19,8 +19,13 @@
 移行やバックアップの手間が酷いため切り替えに至った。&lt;/p>
 &lt;p>また、HugoはMarkdownベースのため、GitHubのWebサイト上のエディターで容易に編集ができる。&lt;/p></description></item><item><title>Helix - CKEP</title><link>/project/helix-ckep/</link><pubDate>Sat, 29 Sep 2018 17:22:00 +0900</pubDate><guid>/project/helix-ckep/</guid><description>&lt;p>オープンソースの分割型格子配列キーボード
 &lt;a href="https://github.com/MakotoKurauchi/helix" target="_blank" rel="noopener">Helix&lt;/a>のカスタム。&lt;/p>
+&lt;h2 id="コンセプト">コンセプト&lt;/h2>
+&lt;p>「タイピングが早いキーボード」ではなく「操作が早いキーボード」。&lt;br>
+ファンクションキーやテンキー、HomeやEndなどのカーソル移動キーを省略せず、押しやすい位置に入れることでトータルでの操作が早くなる。&lt;br>
+反面、通常のタイピングに必要なキーストロークは少し多くなるので純粋な文字列入力には不利。
+通常のローマ字入力に関してはほぼ影響がないが、記号入力などレイヤー切り替えが必要な文字は遅い。&lt;/p>
 &lt;h2 id="キーキャップキースイッチ">キーキャップ・キースイッチ&lt;/h2>
-&lt;p>キースイッチはCherry MX クリア軸(MX1A-C1NN)で、キーキャップはFILCO Calendar Keycap Setとそれ以外はバラバラ。
+&lt;p>キースイッチはCherry MX クリア軸(MX1A-C1NN)で、キーキャップはFILCO Calendar Keycap Setと適当な無刻印のDSA 1U。&lt;br>
 &lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">来年のカレンダー届きました &lt;a href="https://t.co/CPxXjMxIyz">pic.twitter.com/CPxXjMxIyz&lt;/a>&lt;/p>&amp;mdash; 堕電 (@dadenCKEP) &lt;a href="https://twitter.com/dadenCKEP/status/1202556067755855872?ref_src=twsrc%5Etfw">December 5, 2019&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;/p>
