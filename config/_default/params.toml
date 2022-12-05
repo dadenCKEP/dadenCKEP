@@ -103,6 +103,7 @@ contact_links = [
   {icon = "store", icon_pack = "fas", name = "Booth", link = "https://ckep.booth.pm/"},
   {icon = "cubes", icon_pack = "fas", name = "Thingiverse", link = "https://www.thingiverse.com/dadenckep/"},
   {icon = "film", icon_pack = "fas", name = "Filmarks", link = "https://filmarks.com/users/dadenCKEP"},
+  {icon = "headphones", icon_pack = "fas", name = "Geartics", link = "https://www.geartics.com/dadenCKEP"},
 ]
 
 ############################
