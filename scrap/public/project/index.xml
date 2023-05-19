@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on dadenCKEP</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on dadenCKEP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 21 Sep 2020 16:35:38 +0900</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prusa I3 MK3S</title>
+      <link>/project/prusa-i3-mk3s/</link>
+      <pubDate>Mon, 21 Sep 2020 16:35:38 +0900</pubDate>
+      
+      <guid>/project/prusa-i3-mk3s/</guid>
+      <description>オープンソースの3Dプリンタ。</description>
+    </item>
+    
+    <item>
+      <title>CKEP-wiki</title>
+      <link>/project/ckep-wiki/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/ckep-wiki/</guid>
+      <description>個人的な情報の集積所 / GitHub ActionsとGitHub Pagesによる運用の自動化</description>
+    </item>
+    
+    <item>
+      <title>Helix - CKEP</title>
+      <link>/project/helix-ckep/</link>
+      <pubDate>Sat, 29 Sep 2018 17:22:00 +0900</pubDate>
+      
+      <guid>/project/helix-ckep/</guid>
+      <description>オープンソースの分割型格子配列キーボード&lt;a href=&#34;https://github.com/MakotoKurauchi/helix&#34;&gt;Helix&lt;/a&gt;のカスタム。メンテナンス性重視で既にテセウスの船状態。</description>
+    </item>
+    
+    <item>
+      <title>VRChat World</title>
+      <link>/project/vrchat-world/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/vrchat-world/</guid>
+      <description>VRメタバース&lt;a href=&#34;https://www.vrchat.net/&#34;&gt;VRChat&lt;/a&gt;のワールド。自作3Dモデル・シェーダの展示等。小物まですべてフルスクラッチした実家の自室再現ワールドも。</description>
+    </item>
+    
+    <item>
+      <title>AP-MiconCar</title>
+      <link>/project/ap-miconcar/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/ap-miconcar/</guid>
+      <description>Arduino Uno拡張基板として設計されたマイコンカー用汎用基板。品質の低い手付配線と接触の悪い自作ケーブル、安定性の低いジャンパケーブルからサークルの新入生を解放するために試作。</description>
+    </item>
+    
+    <item>
+      <title>Aquaponics Plants</title>
+      <link>/project/aquaponics-plants/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/project/aquaponics-plants/</guid>
+      <description>自室で維持可能な簡易水耕栽培設備の研究。面倒なのでベランダにも出したくない。</description>
+    </item>
+    
+    <item>
+      <title>CKEP-Composite-Backbone-System</title>
+      <link>/project/ckep-composite-backbone-system/</link>
+      <pubDate>Sun, 09 Jul 2017 16:49:37 +0900</pubDate>
+      
+      <guid>/project/ckep-composite-backbone-system/</guid>
+      <description>Webサービスを可能な限り安くホストするための設備</description>
+    </item>
+    
+    <item>
+      <title>Smart House</title>
+      <link>/project/smart-house/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/project/smart-house/</guid>
+      <description>各種家電の総合管理とセンシングによる自動制御。</description>
+    </item>
+    
+  </channel>
+</rss>
