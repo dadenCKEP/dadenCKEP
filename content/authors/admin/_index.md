@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Kengo Nakata / 堕電(dadenCKEP)
+name: 堕電(dadenCKEP)
 
 # Username (this should match the folder name)
 authors:
